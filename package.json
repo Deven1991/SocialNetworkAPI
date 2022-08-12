@@ -1,5 +1,5 @@
 {
-    "name": "13-Ins_CRUD-Mongoose",
+    "name": "social-network-api",
     "version": "1.0.0",
     "private": true,
     "description": "",
@@ -9,6 +9,7 @@
     },
     "dependencies": {
       "express": "^4.17.1",
-      "mongoose": "^6.0.13"
+      "mongoose": "^6.0.13",
+      "bcrypt": "^5.0.1"
     }
   }
