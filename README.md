@@ -2,12 +2,14 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+An API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. 
 
 ## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walk-Through Video](#walkthrough_video)
+- [Features](#features)
 - [User Story](#user_story)
 - [Contact](#contact)
 
@@ -24,6 +26,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+
+## Walkthrough_Video
+    Link: 
+
+## Features
+    - Express.js for routing
+    - MongoDB Database
+    - Mongoose ODM
 
 ## User_Story
 
