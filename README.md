@@ -25,7 +25,7 @@ Run the following command at the terminal:
     npm start
 
 ## Walkthrough_Video
-    Link: 
+    Link: https://drive.google.com/file/d/10vuNFbKsDgYDna1BvxfLnVoixFbpAFkt/view
 
 ## Features
     - Express.js for routing
