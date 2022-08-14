@@ -15,17 +15,14 @@ An API for a social network web application where users can share their thoughts
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+ - Clone GitHub Repo
+ - NPM Install
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Run the following command at the terminal:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    npm start
 
 ## Walkthrough_Video
     Link: 
